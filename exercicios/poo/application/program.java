@@ -1,9 +1,9 @@
-package poo.exc01_rectangle.application;
+package exercicios.poo.application;
 
 import java.util.Scanner;
 
-import poo.exc01_rectangle.entities.Rectangle;
-
+import exercicios.poo.entities.Rectangle;
+Locale.setDefault(Locale.US);
 public class program {
     public static void main(String[] args){
     Scanner sc= new Scanner(System.in);

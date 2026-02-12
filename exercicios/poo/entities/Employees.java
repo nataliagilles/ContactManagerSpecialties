@@ -1,4 +1,4 @@
-package poo.exc02_product.entities;
+package exercicios.poo.entities;
 
 public class Employees {
     public String nome;

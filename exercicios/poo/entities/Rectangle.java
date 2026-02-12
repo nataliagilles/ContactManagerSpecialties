@@ -1,4 +1,4 @@
-package poo.exc01_rectangle.entities;
+package exercicios.poo.entities;
 
 public class Rectangle {
 

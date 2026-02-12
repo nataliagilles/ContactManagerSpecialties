@@ -1,7 +1,7 @@
-package poo.exc02_product.application;
+package exercicios.poo.application;
 
 import java.util.Scanner; 
-import poo.exc02_product.entities.Employees;
+import exercicios.poo.entities.Employees;
 
 
 public class Program {

@@ -4,7 +4,7 @@ import java.util.Scanner;
 import exercicios.poo.entities.Employees;
 
 
-public class Program {
+public class ProgramEmployees {
     public static void main(String[] args) {
     Scanner sc= new Scanner(System.in);
     

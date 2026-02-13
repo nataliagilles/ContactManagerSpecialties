@@ -4,7 +4,7 @@ import java.util.Locale;
 import java.util.Scanner;
 import exercicios.poo.entities.CurrencyConverty;
 
-public class Program4 {
+public class ProgramDolar {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner sc= new Scanner(System.in);  

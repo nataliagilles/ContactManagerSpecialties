@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 import exercicios.poo.entities.Students;
 
-public class Program3 {
+public class ProgramStudents {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner sc= new Scanner(System.in);

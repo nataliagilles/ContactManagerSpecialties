@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 import exercicios.poo.entities.Rectangle;
 
-public class program {
+public class ProgramRectangle {
     public static void main(String[] args){
     Scanner sc= new Scanner(System.in);
     

@@ -1,6 +1,6 @@
 # Estudos Java ☕
 
-Repositório criado para armazenar meus estudos em **Java**, com foco em lógica de programação e **Programação Orientada a Objetos (POO)**.
+Repositório criado para registrar meus estudos em **Java**, com foco em lógica de programação e **Programação Orientada a Objetos (POO)**.
 
 ## 📚 Conteúdos praticados
 
@@ -15,9 +15,21 @@ Repositório criado para armazenar meus estudos em **Java**, com foco em lógica
   * Construtores
   * Organização em pacotes
 
+## 📂 Estrutura do repositório
+
+```
+estudos-java/
+ ├── aulas/
+ ├── exercicios/
+ └── outros exemplos
+```
+
+Os conteúdos estão organizados por temas e listas de exercícios.
+
+
 ## 🎯 Objetivo
 
-Desenvolver uma base sólida em Java para criação de projetos maiores e aplicações backend.
+Construir uma base sólida em Java para o desenvolvimento de projetos maiores e aplicações backend.
 
 ## 🚀 Tecnologias
 
@@ -29,5 +41,4 @@ Desenvolver uma base sólida em Java para criação de projetos maiores e aplica
 ## 👩‍💻 Autora
 
 Natalia Gilles
-Estudante de Desenvolvimento de Sistemas | BackEnd Devoloper
-
+Estudante de Desenvolvimento | Foco em Back-End

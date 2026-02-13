@@ -13,7 +13,7 @@ O curso aborda a linguagem **Java desde o básico até conceitos avançados**, c
 - Acesso a banco de dados com JDBC
 - Desenvolvimento com frameworks como Spring Boot
 - Interface gráfica com JavaFX
-- Projeto prático aplicados ao longo dos módulos :contentReference[oaicite:2]{index=2}
+- Projeto prático aplicados ao longo dos módulos
 
 > O material deste repositório foi organizado para acompanhar as aulas e praticar os conteúdos durante o aprendizado.
 

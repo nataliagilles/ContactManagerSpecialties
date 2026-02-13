@@ -3,18 +3,9 @@ package exercicios.estrutura_sequencial;
 
 import java.util.Scanner;
 
-public class exc3 {
+public class DiferencaProdutos {
     public static void main(String[] args){
-    /**Fazer um programa para ler quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto
-    de A e B pelo produto de C e D segundo a fórmula: DIFERENCA = (A * B - C * D). 
-        Exemplos:
-        Entrada: Saída:
-        5
-        6
-        7
-        8
-        DIFERENCA = -26 */
-    
+
         Scanner sc= new Scanner(System.in);
         
         int a,b,c,d; 

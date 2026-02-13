@@ -2,7 +2,7 @@ package exercicios.estrurtura_condicional;
 
 import java.util.Scanner;
 
-public class exc4 {
+public class DuracaoJogo {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

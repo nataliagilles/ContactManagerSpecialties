@@ -2,7 +2,7 @@ package exercicios.laco_repeticao;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exc6 {
+public class MediaPonderada {
 
 	public static void main(String[] args) {
 

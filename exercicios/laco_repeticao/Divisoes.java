@@ -1,7 +1,8 @@
 package exercicios.laco_repeticao;
+
 import java.util.Scanner;
 
-public class exc5 {
+public class Divisoes {
 
 	public static void main(String[] args) {
 
@@ -9,21 +10,19 @@ public class exc5 {
 
 		int n = sc.nextInt();
 		
-		int in = 0;
-		int out = 0;
-		
 		for (int i=0; i<n; i++) {
+			
 			int x = sc.nextInt();
-			if (x >= 10 && x <= 20) {
-				in = in + 1;
+			int y = sc.nextInt();
+			
+			if (y == 0) {
+				System.out.println("divisao impossivel");
 			}
 			else {
-				out = out + 1;
+				double div = (double) x / y;
+				System.out.printf("%.1f%n", div);
 			}
 		}
-		
-		System.out.println(in + " in");
-		System.out.println(out + " out");
 		
 		sc.close();
 	}

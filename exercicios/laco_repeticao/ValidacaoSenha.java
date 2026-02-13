@@ -2,7 +2,7 @@ package exercicios.laco_repeticao;
 
 import java.util.Scanner;
 
-public class exc1 {
+public class ValidacaoSenha {
     public static void main(String[] args) {
     
         Scanner sc = new Scanner(System.in);

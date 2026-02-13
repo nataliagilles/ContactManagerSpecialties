@@ -1,7 +1,7 @@
 package exercicios.estrurtura_condicional;
 
 import java.util.Scanner;
-public class exc7 {
+public class PlanoCartesiano {
     public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     

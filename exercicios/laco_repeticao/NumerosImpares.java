@@ -1,20 +1,19 @@
 package exercicios.laco_repeticao;
 import java.util.Scanner;
 
-public class exc8 {
+public class NumerosImpares {
 
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
 
-		int n = sc.nextInt();
+		int x = sc.nextInt();
 		
-		int fat = 1;
-		for (int i=1; i<=n; i++) {
-			fat = fat * i;
+		for (int i=1; i<=x; i++) {
+			if (i % 2 != 0) {
+				System.out.println(i);
+			}
 		}
-		
-		System.out.println(fat);
 		
 		sc.close();
 	}

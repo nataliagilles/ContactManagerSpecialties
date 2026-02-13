@@ -2,7 +2,7 @@ package exercicios.laco_repeticao;
 
 import java.util.Scanner;
 
-public class exc2 {
+public class QuadrantePlano {
 
 	public static void main(String[] args) {
 

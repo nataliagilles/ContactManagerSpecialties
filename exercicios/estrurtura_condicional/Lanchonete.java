@@ -2,7 +2,7 @@ package exercicios.estrurtura_condicional;
 
 import java.util.Scanner;
 
-public class exc5 {
+public class Lanchonete {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         

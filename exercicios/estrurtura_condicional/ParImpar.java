@@ -1,7 +1,7 @@
 package exercicios.estrurtura_condicional;
 
 import java.util.Scanner;
-public class exc1 {
+public class ParImpar {
     public static void main(String[] args){
 
     Scanner sc= new Scanner(System.in);

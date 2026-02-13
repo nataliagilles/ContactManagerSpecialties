@@ -1,7 +1,6 @@
 # 📘 Estudos de Java
 
-Este repositório contém **registros dos meus estudos da linguagem de programação Java**, com exercícios, exemplos e projetos baseados no curso *Java Completo: Programação Orientada a Objetos + Projetos* da Udemy. :contentReference[oaicite:1]{index=1}
-
+Este repositório contém **registros dos meus estudos da linguagem de programação Java**, com exercícios, exemplos e projetos baseados no curso *Java Completo: Programação Orientada a Objetos + Projetos* da Udemy.
 ---
 
 ## 🎯 Sobre o Curso

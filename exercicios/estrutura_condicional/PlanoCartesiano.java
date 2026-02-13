@@ -1,4 +1,4 @@
-package exercicios.estrurtura_condicional;
+package exercicios.estrutura_condicional;
 
 import java.util.Scanner;
 public class PlanoCartesiano {

@@ -1,21 +1,33 @@
-# 📘 Estudos de Java
+# Estudos Java ☕
 
-Este repositório contém **registros dos meus estudos da linguagem de programação Java**, com exercícios, exemplos e projetos baseados no curso *Java Completo: Programação Orientada a Objetos + Projetos* da Udemy.
----
+Repositório criado para armazenar meus estudos em **Java**, com foco em lógica de programação e **Programação Orientada a Objetos (POO)**.
 
-## 🎯 Sobre o Curso
+## 📚 Conteúdos praticados
 
-O curso aborda a linguagem **Java desde o básico até conceitos avançados**, com foco em:
+* Sintaxe básica do Java
+* Estruturas condicionais e de repetição
+* Vetores e listas
+* Métodos e funções
+* Programação Orientada a Objetos:
 
-- Programação Orientada a Objetos (POO)
-- Sintaxe e estruturas da linguagem
-- Manipulação de coleções e tratamento de erros
-- Acesso a banco de dados com JDBC
-- Desenvolvimento com frameworks como Spring Boot
-- Interface gráfica com JavaFX
-- Projeto prático aplicados ao longo dos módulos
+  * Classes e objetos
+  * Encapsulamento
+  * Construtores
+  * Organização em pacotes
 
-> O material deste repositório foi organizado para acompanhar as aulas e praticar os conteúdos durante o aprendizado.
+## 🎯 Objetivo
 
----
+Desenvolver uma base sólida em Java para criação de projetos maiores e aplicações backend.
+
+## 🚀 Tecnologias
+
+* Java
+* Git
+* GitHub
+* Linux
+
+## 👩‍💻 Autora
+
+Natalia Gilles
+Estudante de Desenvolvimento de Sistemas | BackEnd Devoloper
 

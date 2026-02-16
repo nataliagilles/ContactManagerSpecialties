@@ -22,11 +22,11 @@ Sistema simples em Java para cadastro e gerenciamento de contatos, com suporte a
 ## Estrutura do projeto
 
 ContactManager/
-    application/      # Classe principal (Main)
-    model/            # Entidades (Contato, Especialidade)
-    repository/       # Repositório com Map (simulação de banco)
-    service/          # Lógica de negócio (ContatoService)
-    util/             # Utilitários (Validador)
+├── application/      # Classe principal (Main)
+├── model/            # Entidades (Contato, Especialidade)
+├── repository/       # Repositório com Map (simulação de banco)
+├── service/          # Lógica de negócio (ContatoService)
+└── util/             # Utilitários (Validador)
 
 
 ## 📌 Melhorias futuras

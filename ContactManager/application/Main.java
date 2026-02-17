@@ -47,7 +47,6 @@ public class Main {
 
                     } while (!Validador.emailValido(email));
 
-                    // Validação do ano
                     int ano;
                     do {
                         System.out.print("Ano nascimento (4 dígitos): ");
@@ -57,7 +56,6 @@ public class Main {
                         }
                     } while (ano < 1 || ano > 2026);
 
-                    // Validação do mês
                     int mes;
                     do {
                         System.out.print("Mês: ");
@@ -67,7 +65,6 @@ public class Main {
                         }
                     } while (mes < 1 || mes > 12);
 
-                    // Validação do dia
                     int dia;
                     while (true) {
                         System.out.print("Dia: ");
@@ -105,7 +102,6 @@ public class Main {
                     }
                     break;
 
-                // demais cases permanecem iguais...
                 case 2:
                     System.out.print("Email: ");
                     Contato encontrado = service.buscarPorEmail(sc.nextLine());

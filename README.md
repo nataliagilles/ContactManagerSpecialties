@@ -36,7 +36,7 @@ ContactManagerSpecialties/
 ├── .gitignore
 ├── contatos.dat
 └── README.md
-
+``
 
 ## 🚀 Como Executar
 
@@ -49,20 +49,20 @@ ContactManagerSpecialties/
 1. **Clone o repositório**:
    ```bash
    git clone https://github.com/nataliagilles/ContactManagerSpecialties.git
-
+   ```
 2. **Acesse a pasta do projeto:**
- cd ContactManagerSpecialties
+ ```cd ContactManagerSpecialties```
 
 3. **Compile os arquivos Java (dentro da pasta src):**
-javac ContactManager/application/*.java ContactManager/model/*.java ContactManager/repository/*.java ContactManager/service/*.java ContactManager/util/*.java
+```javac ContactManager/application/*.java ContactManager/model/*.java ContactManager/repository/*.java ContactManager/service/*.java ContactManager/util/*.java```
 
 4. **Execute a aplicação:**
-java ContactManager.application.Main
+```java ContactManager.application.Main```
 
 
 **Se estiver usando uma IDE (como VS Code, IntelliJ ou Eclipse), basta importar o projeto como pasta e executar a classe Main.***
 
-##🔮 Melhorias Futuras:
+## 🔮 Melhorias Futuras:
 
 - Adicionar interface gráfica (JavaFX ou Swing).
 
@@ -76,7 +76,7 @@ java ContactManager.application.Main
 
 
 
-##📌 Sobre o Projeto
+## 📌 Sobre o Projeto
 Este projeto foi desenvolvido como parte dos meus estudos em Java, com foco em:
 
 - Organização em camadas (model, repository, service, application).
@@ -86,8 +86,6 @@ Este projeto foi desenvolvido como parte dos meus estudos em Java, com foco em:
 - Persistência de dados sem banco de dados (serialização).
 
 - Uso de recursos modernos do Java (Streams, Optional, LocalDate).
-
-
 
 
 

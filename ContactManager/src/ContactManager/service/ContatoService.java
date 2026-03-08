@@ -3,6 +3,7 @@ package ContactManager.service;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
+import java.util.Optional;
 import java.util.stream.Collectors;
 
 import ContactManager.model.Contato;
@@ -15,8 +16,8 @@ public class ContatoService {
         return repository.salvar(contato);
     }
 
-    public Contato buscarPorEmail(String email) {
-        return repository.buscarPorEmail(email);
+    public Optional<Contato> buscarPorEmail(String email) {
+        return Optional.ofNullable(repository.buscarPorEmail(email));
     }
 
     public boolean remover(String email) {
@@ -45,5 +46,9 @@ public class ContatoService {
                                 .anyMatch(esp ->
                                         esp.getNome().equalsIgnoreCase(especialidade)))
                 .collect(Collectors.toList());
+    }
+
+    public boolean atualizarContato(Contato contato) {
+        return repository.atualizar(contato);
     }
 }

@@ -94,4 +94,4 @@ Este projeto foi desenvolvido como parte dos meus estudos em Java, com foco em:
 Natalia Gilles
 Estudante Análise e Desenvolvimento de Sistemas | Foco em Back-End
 
-##⭐ Se este projeto te ajudou de alguma forma, considere dar uma estrela no repositório!
+⭐ Se este projeto te ajudou de alguma forma, considere dar uma estrela no repositório!

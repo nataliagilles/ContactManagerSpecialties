@@ -1,4 +1,4 @@
-# 📇 Contact Manager with Specialties
+# 📇 Contact Manager Specialties
 
 Sistema de gerenciamento de contatos desenvolvido em Java, com funcionalidades de cadastro, busca, listagem ordenada e persistência em arquivo. Cada contato pode ter múltiplas especialidades associadas (ex: programador, designer) com valor por hora.
 

@@ -36,7 +36,7 @@ ContactManagerSpecialties/
 ├── .gitignore
 ├── contatos.dat
 └── README.md
-``
+```
 
 ## 🚀 Como Executar
 

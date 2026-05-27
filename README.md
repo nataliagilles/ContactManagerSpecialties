@@ -1,11 +1,5 @@
 # 📇 ContactManager API
 
-[![Java](https://img.shields.io/badge/Java-21-blue)](https://adoptium.net/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1.5-brightgreen)](https://spring.io/projects/spring-boot)
-[![Maven](https://img.shields.io/badge/Maven-3.9+-orange)](https://maven.apache.org/)
-[![REST API](https://img.shields.io/badge/REST-API-purple)](https://restfulapi.net/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/nataliagilles/ContactManagerSpecialties)
-
 > API REST para gerenciamento de contatos e especialidades, desenvolvida com **Spring Boot** e persistência em arquivo.  
 > Projeto evoluído de uma aplicação de console para um serviço web moderno, pronto para integração com front-end e mobile.
 
@@ -151,6 +145,4 @@ Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais info
 **Natalia Gilles**
 Desenvolvedora backend em evolução, Java, Spring Boot e APIs REST.
 ](https://github.com/nataliagilles)
-
-** Se gostou do projeto, deixe uma estrela no repositório!**
-Sugestões e contribuições são bem-vindas. Abra uma issue ou pull request.
+**Sugestões e contribuições são bem-vindas.**

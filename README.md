@@ -11,7 +11,7 @@
 
 ---
 
-## 🎯 Sobre o Projeto
+##  Sobre o Projeto
 
 Este projeto demonstra a evolução de um sistema simples de linha de comando para uma **API REST profissional**, aplicando conceitos fundamentais de desenvolvimento web:
 
@@ -23,18 +23,18 @@ Este projeto demonstra a evolução de um sistema simples de linha de comando pa
 
 ---
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
-- ✅ **Adicionar** contato com nome, e-mail, telefone e lista de especialidades.
-- ✅ **Listar** todos os contatos.
-- ✅ **Buscar** contato por e-mail.
-- ✅ **Atualizar** dados de um contato.
-- ✅ **Remover** contato.
-- ✅ Persistência automática (não perde dados ao reiniciar).
+-  **Adicionar** contato com nome, e-mail, telefone e lista de especialidades.
+-  **Listar** todos os contatos.
+-  **Buscar** contato por e-mail.
+-  **Atualizar** dados de um contato.
+-  **Remover** contato.
+-  Persistência automática (não perde dados ao reiniciar).
 
 ---
 
-## 📦 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 | Tecnologia       | Versão | Descrição                        |
 |-----------------|--------|----------------------------------|
@@ -46,7 +46,7 @@ Este projeto demonstra a evolução de um sistema simples de linha de comando pa
 
 ---
 
-## 🧪 Como Executar Localmente
+##  Como Executar Localmente
 
 ### Pré-requisitos
 - **Java 17+** instalado.
@@ -79,8 +79,9 @@ Teste com o navegador: http://localhost:8080/api/contatos
 |PUT	    |/api/contatos/{email}	| Atualiza contato          |	200, 404, 500  |
 |DELETE	  |/api/contatos/{email}	| Remove contato	          | 204, 404, 500  |
 
-## 🔧 Exemplos de Requisições com curl
-### ➕ Adicionar contato
+##  Exemplos de Requisições com curl
+
+###  Adicionar contato
 ```bash
 curl -X POST http://localhost:8080/api/contatos \
   -H "Content-Type: application/json" \
@@ -92,17 +93,17 @@ curl -X POST http://localhost:8080/api/contatos \
   }'
 ```
 
-### 📄 Listar todos
+###  Listar todos
 ```bash
 curl -X GET http://localhost:8080/api/contatos
 ```
 
-### 🔍 Buscar por e-mail
+###  Buscar por e-mail
 ```bash
 curl -X GET http://localhost:8080/api/contatos/ana@email.com
 ```
 
-### ✏️ Atualizar
+### Atualizar
 ```bash
 curl -X PUT http://localhost:8080/api/contatos/ana@email.com \
   -H "Content-Type: application/json" \
@@ -114,12 +115,12 @@ curl -X PUT http://localhost:8080/api/contatos/ana@email.com \
   }'
 ```
 
-### ❌ Remover
+###  Remover
 ```bash
 curl -X DELETE http://localhost:8080/api/contatos/ana@email.com
 ```
 
-### 📁 Estrutura do Projeto (Camadas)
+###  Estrutura do Projeto (Camadas)
 ```bash
 src/main/java/br/contactmanager/api/
 ├── controller/          # Endpoints REST (ContatoController)
@@ -135,7 +136,7 @@ src/main/java/br/contactmanager/api/
 - Injeção de dependência via Spring.
 - Código limpo e comentários objetivos.
 
-## 🛠️ Possíveis Melhorias Futuras
+##  Possíveis Melhorias Futuras
 - Adicionar SpringDoc OpenAPI (Swagger) para documentação interativa.
 - Migrar persistência para banco de dados relacional (PostgreSQL/MySQL) com Spring Data JPA.
 - Implementar autenticação e autorização com Spring Security e JWT.
@@ -143,7 +144,7 @@ src/main/java/br/contactmanager/api/
 - Escrever testes automatizados (unitários e de integração).
 - Containerizar a aplicação com Docker.
 
-## 📄 Licença
+##  Licença
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
 
 ## 👩‍💻 Autora
@@ -151,5 +152,5 @@ Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais info
 Desenvolvedora backend em evolução, Java, Spring Boot e APIs REST.
 ](https://github.com/nataliagilles)
 
-**⭐ Se gostou do projeto, deixe uma estrela no repositório!**
+** Se gostou do projeto, deixe uma estrela no repositório!**
 Sugestões e contribuições são bem-vindas. Abra uma issue ou pull request.
